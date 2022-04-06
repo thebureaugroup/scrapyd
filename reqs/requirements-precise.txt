@@ -1,2 +1,2 @@
 Scrapy
-twisted==11.1.0
+twisted==22.2.0
